@@ -1,0 +1,6 @@
+Rencana fajar
+
+- Javascript
+  * ES6
+- Python
+- PWA
