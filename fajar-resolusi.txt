@@ -1,0 +1,4 @@
+Fajar resolusi
+- Belajar Git untuk merekam source code
+- Belajar Codeigniter
+- Belajar Android expert dengan buku Dicoding
