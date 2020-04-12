@@ -3,10 +3,11 @@ Rencana fajar
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
 - Struktur Data Dasar
 - PHP Framework
-  * Laravel
+  ^ Laravel
 - Python
 - PWA
+-Vlogs
